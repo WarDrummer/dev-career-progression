@@ -18,43 +18,31 @@
 
 ## Skill Categories
 
-**Automated Testing** - 
-* Unit Testing
-* Integration Testing
-* End-to-End Testing
-* Test-Driven Development
-  
-**Core** - 
-* Algorithms
-* Data Structures
-* Soft Skills / Professionalism
+**Automated Testing** - unit testing, integration testing, end-to-end testing, test-driven development
 
-**Design Patterns** - 
-* Fundamental Patterns
-* Enterprise Patterns
+**Core** - algorithms, data structures, soft skills / professionalism
 
-**Design Principles** - 
-* OOP Principles
-* Packaging Principles
-* Antipatterns
-* Metrics
+**Design Patterns** - fundamental and enterprise patterns
 
-**Development Practices** - 
-* Code Review
-* Debugging
-* Pair Programming
-* Refactoring
+**Design Principles** - object-oriented programming principles, packaging principles, antipatterns, metrics
 
-**DevOps** - 
-* Source Control (Git)
-* Continuous Integration
-* Continuous Delivery
+**Development Practices** - code review, debugging, pair programming, refactoring
+
+**DevOps** - source control (git), continuous integration, continuous delivery
+
 
 ## Skill / Proficiency Matrix
 
 |                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
-| **Apprentice** |                          |          |                        |                          |                              |            |
-| **Journeyman** |                          |          |                        |                          |                              |            |
-| **Master**     |                          |          |                        |                          |                              |            |
+| **Apprentice** | [details](./apprentice/automated_testing.md) | [details](./apprentice/core.md) | [details](./apprentice/design_patterns.md) | [details](./apprentice/design_principles.md) | [details](./apprentice/development_practices.md) | [details](./apprentice/devops.md) |
+| **Journeyman** | [details](./journeyman/automated_testing.md) | [details](./journeyman/core.md) | [details](./journeyman/design_patterns.md) | [details](./journeyman/design_principles.md) | [details](./journeyman/development_practices.md) | [details](./journeyman/devops.md) |
+| **Master**     | [details](./master/automated_testing.md) | [details](./master/core.md) | [details](./master/design_patterns.md) | [details](./master/design_principles.md) | [details](./master/development_practices.md) | [details](./master/devops.md) |
 
+
+## Roles
+
+* [Developer](./roles/developer.md)
+* [Sr. Developer](./roles/senior_developer.md)
+* [Architect](./roles/architect.md)
+* [DevOps Specialist](./roles/devops_specialiest.md)
