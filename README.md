@@ -50,6 +50,7 @@
 * Continuous Integration
 * Continuous Delivery
 
+## Skill / Proficiency Matrix
 
 |                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
