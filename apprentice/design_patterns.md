@@ -4,16 +4,23 @@
 - [ ] Head First Design Patterns
 - [ ] [The Monostate pattern](https://www.simplethread.com/the-monostate-pattern/)
 - [ ] [Fluent Interface](https://martinfowler.com/bliki/FluentInterface.html)
+- [ ] [Builder Pattern](https://www.geeksforgeeks.org/builder-design-pattern/)
 
 ### Training
 - [ ] [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+- [ ] StringBuilder Workshop
+  * Given a large text file: https://github.com/dwyl/english-words
+  * Write a method that uses StringBuilder to concantenate the contents into a single, ;-delimted line
+  * Write another method that does the same thing without StringBuilder
+  * Using a performance profiler, quantify the performance difference between the two methods
+  * Using a memory profiler, quantify the memory usage difference between the two methods
 
 ### Professional Experience
 - [ ] Describe the different categories of patterns: creational, structural, and behavioral
 - [ ] Identify design patterns in the tech stack (language, libraries, frameworks) used in projects you are a contributor
 - [ ] Appropriately apply the abstract factory pattern in a project
 - [ ] Appropriately apply the factory method pattern in a project
-- [ ] Appropriately apply the fluent builder pattern in a project
+- [ ] Appropriately apply the fluent builder pattern in a project, explain which part is fluent interface and which is builder
 - [ ] Appropriately apply the monostate pattern in a project
 - [ ] Appropriately apply, or identify the application of, the adapter pattern in a project
 - [ ] Appropriately apply the facade pattern in a project
