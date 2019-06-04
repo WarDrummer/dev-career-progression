@@ -9,6 +9,7 @@
 ### Training
 - [ ] [HackerRank - Java Language Proficiency](https://www.hackerrank.com/domains/java)
 - [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
+- [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
 
 ### Professional Experience
 - [ ] Maintain a weekly mentorship for 3 months; track what was discussed/learned
