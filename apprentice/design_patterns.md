@@ -8,6 +8,10 @@
 
 ### Training
 - [ ] [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+- [ ] [Design Patterns Library, PluralSight](https://www.pluralsight.com/courses/patterns-library)
+  * Adapter
+  * Template Method
+  * ...
 - [ ] StringBuilder Workshop
   * Given a large text file: https://github.com/dwyl/english-words
   * Write a method that uses StringBuilder to concatenate the contents into a single, ;-delimited line
