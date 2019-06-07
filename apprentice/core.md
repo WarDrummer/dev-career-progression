@@ -13,7 +13,7 @@
 
 ### Professional Experience
 - [ ] Maintain a weekly mentorship for 3 months; track what was discussed/learned
-- [ ] Complete "HackerRank - Java Langauge Proficiency" problems for the following sub-domains:
+- [ ] Complete "HackerRank - Java Language Proficiency" problems for the following sub-domains:
   - [ ] Introduction
   - [ ] Strings
   - [ ] BigNumber
