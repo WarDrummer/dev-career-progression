@@ -1,7 +1,13 @@
 # Design Principles (Journeyman)
 
 ### Reading
-- [ ] ...
+- [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
+  - [ ] Chapter 7, What is Agile Design?
+  - [ ] Chapter 8, The Single-Responsibility Principle (SRP)
+  - [ ] Chapter 9, The Open/Closed Principle (OCP)
+  - [ ] Chapter 10, The Liskov Substitution Principle (LSP)
+  - [ ] Chapter 11, The Dependency-Inversion Principle (DIP)
+  - [ ] Chapter 12, The Interface Segregation Principle (ISP)
 
 ### Training
 - [ ] ...
