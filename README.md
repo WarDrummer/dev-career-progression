@@ -24,7 +24,7 @@
 
 **Design Patterns** - fundamental and enterprise patterns
 
-**Design Principles** - object-oriented programming principles, packaging principles, antipatterns, metrics
+**Design Principles** - object-oriented programming principles, packaging principles, antipatterns, metrics, UX
 
 **Development Practices** - code review, debugging, pair programming, refactoring
 
