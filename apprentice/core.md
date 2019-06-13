@@ -9,6 +9,8 @@
 - [ ] [HackerRank - Java Language Proficiency](https://www.hackerrank.com/domains/java)
 - [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 - [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
+- [ ] [Advent of Code, Day 19: An Elephant Named Joseph](https://adventofcode.com/2016/day/19)
+  - [ ] Implement using array list and linked list, explain the trade-offs of the implementations
 
 ### Professional Experience
 - [ ] Maintain a weekly mentorship for 3 months; track what was discussed/learned
