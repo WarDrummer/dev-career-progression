@@ -23,3 +23,4 @@
   - [ ] Data Structures
   - [ ] Object Oriented Programming
   - [ ] Exception Handling
+- [ ] Demonstrate the importance of setting capacity on a data structure when applicable
