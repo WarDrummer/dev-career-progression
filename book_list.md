@@ -25,6 +25,6 @@
 
 [Freeman, E., Robson, E. and Hendrickson, M. (2004). *Head First Design Patterns*.](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
+# Useful Links
 
-Citation Generator: 
-[http://www.citethisforme.com/citation-generator/ieee](http://www.citethisforme.com/citation-generator/ieee)
+[Citation Generator](http://www.citethisforme.com/citation-generator/ieee)
