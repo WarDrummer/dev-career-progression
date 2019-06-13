@@ -1,7 +1,7 @@
 # Design Patterns (Apprentice)
 
 ### Reading
-- [ ] Head First Design Patterns
+- [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - [ ] [The Monostate pattern](https://www.simplethread.com/the-monostate-pattern/)
 - [ ] [Fluent Interface](https://martinfowler.com/bliki/FluentInterface.html)
 - [ ] [Builder Pattern](https://www.geeksforgeeks.org/builder-design-pattern/)
