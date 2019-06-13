@@ -3,7 +3,7 @@
 ### Reading
 
 - [ ] [The Art of Unit Testing](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/)
-- [ ] ['Naming Unit Tests Responsibly', Google Test Blog](https://testing.googleblog.com/2007/02/tott-naming-unit-tests-responsibly.html)
+- [ ] ['Expect vs. Assert', Google Test Blog](https://testing.googleblog.com/2008/07/tott-expect-vs-assert.html)
 - [ ] ['Stubs Speed up Your Unit Tests', Google Test Blog](https://testing.googleblog.com/2007/04/tott-stubs-speed-up-your-unit-tests.html)
 
 ### Training
