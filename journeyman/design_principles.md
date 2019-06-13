@@ -8,6 +8,7 @@
   - [ ] Chapter 10, The Liskov Substitution Principle (LSP)
   - [ ] Chapter 11, The Dependency-Inversion Principle (DIP)
   - [ ] Chapter 12, The Interface Segregation Principle (ISP)
+- [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
 ### Training
 - [ ] ...
