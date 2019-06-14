@@ -1,11 +1,13 @@
 # Development Practices (Apprentice)
 
+
+
 ### Reading
-- [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-- [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
-- [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)
-- [ ] [Scrum Guide](https://www.scrum.org/resources/scrum-guide)
-- [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/)
+- [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) <img src="../images/book.png" width="16" height="16"/>
+- [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF) <img src="../images/white_paper.png" width="16" height="16"/>
+- [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] [Scrum Guide](https://www.scrum.org/resources/scrum-guide) <img src="../images/white_paper.png" width="16" height="16"/>
+- [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/) <img src="../images/white_paper.png" width="16" height="16"/>
 
 ### Training
 - [ ] ...
