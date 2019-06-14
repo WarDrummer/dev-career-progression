@@ -26,7 +26,7 @@
 
 **Design Principles** - object-oriented programming principles, packaging principles, antipatterns, metrics, UX
 
-**Development Practices** - code review, debugging, pair programming, refactoring
+**Development Practices** - code review, debugging, pair programming, refactoring, Scrum
 
 **DevOps** - source control (git), continuous integration, continuous delivery
 
