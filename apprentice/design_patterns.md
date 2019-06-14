@@ -18,7 +18,7 @@
   - [ ] Singleton
   - [ ] Strategy
   - [ ] Template Method
-- [ ] [StringBuilder Workshop](../string_builder_workshop.md)
+- [ ] [StringBuilder Workshop](../exercises/string_builder_workshop.md)
 
 ### Professional Experience
 - [ ] Describe the different categories of patterns: creational, structural, and behavioral
