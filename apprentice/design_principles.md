@@ -10,4 +10,6 @@
 - [ ] ...
 
 ### Professional Experience
+- [ ] As part of a code review, identify a problem with poorly implemented constructor and suggest an alternative
+- [ ] As part of a code review, suggest a better name for a method or variable
 - [ ] ...
