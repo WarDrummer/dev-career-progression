@@ -9,15 +9,16 @@
 ### Training
 - [ ] [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 - [ ] [Design Patterns Library, PluralSight](https://www.pluralsight.com/courses/patterns-library)
-  * Adapter
-  * Template Method
-  * ...
-- [ ] StringBuilder Workshop
-  * Given a large text file: https://github.com/dwyl/english-words
-  * Write a method that uses StringBuilder to concatenate the contents into a single, ;-delimited line
-  * Write another method that does the same thing without StringBuilder
-  * Using a performance profiler, quantify the performance difference between the two methods
-  * Using a memory profiler, quantify the memory usage difference between the two methods
+  - [ ] Adapter
+  - [ ] Builder
+  - [ ] Command
+  - [ ] Factory
+  - [ ] Null Object
+  - [ ] Repository
+  - [ ] Singleton
+  - [ ] Strategy
+  - [ ] Template Method
+- [ ] [StringBuilder Workshop](../string_builder_workshop.md)
 
 ### Professional Experience
 - [ ] Describe the different categories of patterns: creational, structural, and behavioral
