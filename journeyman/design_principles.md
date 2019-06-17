@@ -10,6 +10,8 @@
   - [ ] Chapter 12, The Interface Segregation Principle (ISP)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) <img src="../images/book.png" width="16" height="16"/>
 - [ ] ['Is Design Dead?', Martin Fowler Bliki](https://martinfowler.com/articles/designDead.html) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] ['Tony Hoare, Apologies and Retractions', Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare#Apologies_and_retractions)
+
 ### Training
 - [ ] ...
 
