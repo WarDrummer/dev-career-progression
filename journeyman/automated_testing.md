@@ -8,4 +8,4 @@
   - [ ] Complete all exercises by automating Gherkin acceptance tests
 
 ### Professional Experience
-- [ ] ...
+- [ ] Create a suite of automated end-to-end tests using Cucumber or some equivalent BDD tool
