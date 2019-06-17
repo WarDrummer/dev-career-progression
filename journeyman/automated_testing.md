@@ -3,6 +3,8 @@
 ### Reading
 - [ ] [The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/dp/1941222293)
 - [ ] [Working Effectively with Legacy Code, Chapters 1-24](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+- [ ] ['Test Coverage', Martin Fowler Bliki](https://martinfowler.com/bliki/TestCoverage.html)
+- [ ] ['Cobra effect', Wikipedia](https://en.wikipedia.org/wiki/Cobra_effect)
 
 ### Training
 - [ ] [The Ray Tracer Challenge](https://www.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719)
