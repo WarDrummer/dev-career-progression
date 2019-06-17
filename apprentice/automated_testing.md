@@ -10,9 +10,9 @@
 - [ ] ['Roman Numerals - Coding Dojo', Coding Dojo](http://codingdojo.org/kata/RomanNumerals/)
 
 ### Professional Experience
-- [ ] Create a unit test
-- [ ] Create a unit test that makes use of a stub
-- [ ] Create a unit test that makes use of a mock
-- [ ] Create a unit test that makes use of a spy
+- [ ] Add unit tests for an existing class prior to adding or changing behavior in that class
+- [ ] Use test-driven development (TDD) to complete one user story / work item / PBI
+- [ ] Make use of a stub in at least one unit test
+- [ ] Make use of a mock in at least one unit test
+- [ ] Make use of a spy in at least one unit test
 - [ ] Use a coverage tool to identify gaps in unit tests
-- [ ] Use test-driven development to complete one user story / work item / PBI
