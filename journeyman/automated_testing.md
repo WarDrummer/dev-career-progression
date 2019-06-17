@@ -7,10 +7,8 @@
 - [ ] ['What Makes a Good End-to-End Test?', Google Testing Blog](https://testing.googleblog.com/2016/09/testing-on-toilet-what-makes-good-end.html)
 - [ ] ['Test Behavior, Not Implementation'](https://testing.googleblog.com/2013/08/testing-on-toilet-test-behavior-not.html)
 - [ ] ['Expect vs. Assert', Google Testing Blog](https://testing.googleblog.com/2008/07/tott-expect-vs-assert.html)
-- [ ] ['Don't Overuse Mocks', Google Testing Blog](https://testing.googleblog.com/2013/05/testing-on-toilet-dont-overuse-mocks.html)
 - [ ] ['Test Coverage', Martin Fowler Bliki](https://martinfowler.com/bliki/TestCoverage.html)
 - [ ] ['Cobra effect', Wikipedia](https://en.wikipedia.org/wiki/Cobra_effect)
-- [ ] Limit invariants to improve tests
 
 ### Training
 - [ ] [The Ray Tracer Challenge](https://www.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719)
