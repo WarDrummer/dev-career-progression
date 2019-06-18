@@ -2,14 +2,14 @@
 
 ### Reading
 
-- [ ] [The Art of Unit Testing (C#)](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/)<img src="../images/book.png" width="16" height="16"/> or [Effective Unit Testing (Java)](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)<img src="../images/book.png" width="16" height="16"/>
-- [ ] ['Writing Descriptive Test Names', Google Testing Blog](https://testing.googleblog.com/2014/10/testing-on-toilet-writing-descriptive.html)<img src="../images/blog.png" width="16" height="16"/>
-- [ ] ['Don't Put Logic in Tests', Google Testing Blog](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html)<img src="../images/blog.png" width="16" height="16"/>
-- [ ] ['Test Behaviors, Not Methods', Google Testing Blog](https://testing.googleblog.com/2014/04/testing-on-toilet-test-behaviors-not.html)<img src="../images/blog.png" width="16" height="16"/>
-- [ ] ['Change Detector Tests Considered Harmful', Google Testing Blog](https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html)<img src="../images/blog.png" width="16" height="16"/>
-- [ ] ['The Way of Testivus', Artima Weblog](https://www.artima.com/weblogs/viewpost.jsp?thread=203994)<img src="../images/blog.png" width="16" height="16"/>
-- [ ] ['An Introduction to Code Coverage', Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)<img src="../images/blog.png" width="16" height="16"/>
-- [ ] ['How much test coverage do I need? - The Testivus Answer', DeveloperTesting.com](http://www.developertesting.com/archives/month200705/20070504-000425.html)<img src="../images/blog.png" width="16" height="16"/>
+- [ ] [The Art of Unit Testing (C#)](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/) <img src="../images/book.png" width="16" height="16"/> or [Effective Unit Testing (Java)](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579) <img src="../images/book.png" width="16" height="16"/>
+- [ ] ['Writing Descriptive Test Names', Google Testing Blog](https://testing.googleblog.com/2014/10/testing-on-toilet-writing-descriptive.html) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] ['Don't Put Logic in Tests', Google Testing Blog](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] ['Test Behaviors, Not Methods', Google Testing Blog](https://testing.googleblog.com/2014/04/testing-on-toilet-test-behaviors-not.html) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] ['Change Detector Tests Considered Harmful', Google Testing Blog](https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] ['The Way of Testivus', Artima Weblog](https://www.artima.com/weblogs/viewpost.jsp?thread=203994) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] ['An Introduction to Code Coverage', Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] ['How much test coverage do I need? - The Testivus Answer', DeveloperTesting.com](http://www.developertesting.com/archives/month200705/20070504-000425.html) <img src="../images/blog.png" width="16" height="16"/>
 
 ### Training
 - [ ] ['Roman Numerals - Coding Dojo', Coding Dojo](http://codingdojo.org/kata/RomanNumerals/)
