@@ -1,9 +1,9 @@
 # Core (Apprentice)
 
 ### Reading
-- [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370)
-- [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
-- [ ] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441)
+- [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370) <img src="../images/book.png" width="16" height="16"/>
+- [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) <img src="../images/book.png" width="16" height="16"/>
+- [ ] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441) <img src="../images/book.png" width="16" height="16"/>
 
 ### Training
 - [ ] [HackerRank - Java Language Proficiency](https://www.hackerrank.com/domains/java)
