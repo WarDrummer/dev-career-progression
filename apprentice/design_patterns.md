@@ -1,10 +1,10 @@
 # Design Patterns (Apprentice)
 
 ### Reading
-- [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
-- [ ] [The Monostate pattern](https://www.simplethread.com/the-monostate-pattern/)
-- [ ] [Fluent Interface](https://martinfowler.com/bliki/FluentInterface.html)
-- [ ] [Builder Pattern](https://www.geeksforgeeks.org/builder-design-pattern/)
+- [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124) <img src="../images/book.png" width="16" height="16"/>
+- [ ] [The Monostate pattern](https://www.simplethread.com/the-monostate-pattern/) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] [Fluent Interface](https://martinfowler.com/bliki/FluentInterface.html) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] [Builder Pattern](https://www.geeksforgeeks.org/builder-design-pattern/) <img src="../images/blog.png" width="16" height="16"/>
 
 ### Training
 - [ ] [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
