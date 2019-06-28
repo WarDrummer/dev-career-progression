@@ -1,10 +1,10 @@
 # DevOps (Apprentice)
 
 ### Reading
-- [ ] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
-- [ ] [Atlassian's Comparing Git Workflows article](https://www.atlassian.com/git/tutorials/comparing-workflows)
-- [ ] [Atlassian's Gitflow Workflow article](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-- [ ] [Road to Continuous Deployment - Intuit](https://quickbooks-engineering.intuit.com/road-to-continuous-deployment-65bd03b985fc)
+- [ ] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) <img src="../images/book.png" width="16" height="16"/>
+- [ ] [Atlassian's Comparing Git Workflows article](https://www.atlassian.com/git/tutorials/comparing-workflows) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] [Atlassian's Gitflow Workflow article](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) <img src="../images/blog.png" width="16" height="16"/>
+- [ ] [Road to Continuous Deployment - Intuit](https://quickbooks-engineering.intuit.com/road-to-continuous-deployment-65bd03b985fc) <img src="../images/blog.png" width="16" height="16"/>
 
 ### Training
 - [ ] [Git Immersion](http://gitimmersion.com/lab_01.html)
