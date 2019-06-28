@@ -7,6 +7,7 @@
 - [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF) <img src="../images/white_paper.png" width="16" height="16"/>
 - [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews) <img src="../images/blog.png" width="16" height="16"/>
 - [ ] [Business Case for Better Software Practices](https://www.construx.com/resources/business-case-for-better-software-practices/) <img src="../images/white_paper.png" width="16" height="16"/>
+- [ ] [20 Patterns to Watch For in Your Engineering Team](https://resources.gitprime.com/books/20-patterns/)
 - [ ] [Scrum Guide](https://www.scrum.org/resources/scrum-guide) <img src="../images/document.png" width="16" height="16"/>
 - [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/) <img src="../images/document.png" width="16" height="16"/>
 
