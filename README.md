@@ -37,7 +37,7 @@
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
 | **Apprentice** | [details](./apprentice/automated_testing.md) | [details](./apprentice/core.md) | [details](./apprentice/design_patterns.md) | [details](./apprentice/design_principles.md) | [details](./apprentice/development_practices.md) | [details](./apprentice/devops.md) |
 | **Journeyman** | [details](./journeyman/automated_testing.md) | [details](./journeyman/core.md) | [details](./journeyman/design_patterns.md) | [details](./journeyman/design_principles.md) | [details](./journeyman/development_practices.md) | [details](./journeyman/devops.md) |
-| **Master**     | [details](./master/automated_testing.md) | [details](./master/core.md) | [details](./master/design_patterns.md) | [details](./master/design_principles.md) | [details](./master/development_practices.md) | [details](./master/devops.md) |
+| **Master**     | -- | -- | -- | -- | -- | -- |
 
 
 ## Roles
