@@ -9,6 +9,10 @@
 - [ ] ['Expect vs. Assert', Google Testing Blog](https://testing.googleblog.com/2008/07/tott-expect-vs-assert.html) <img src="../images/blog.png" width="16" height="16"/>
 - [ ] ['Test Coverage', Martin Fowler Bliki](https://martinfowler.com/bliki/TestCoverage.html) <img src="../images/blog.png" width="16" height="16"/>
 - [ ] ['Cobra effect', Wikipedia](https://en.wikipedia.org/wiki/Cobra_effect)
+- [ ] [Test-Driven Development By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- [ ] [How to Misuse Code Coverage](http://www.exampler.com/testing-com/writings/coverage.pdf)
+- [ ] ['Don't Overuse Mocks', Google Testing Blog](https://testing.googleblog.com/2013/05/testing-on-toilet-dont-overuse-mocks.html)
+- [ ] Limit invariants to improve tests
 
 ### Training
 - [ ] [The Ray Tracer Challenge](https://www.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719)
