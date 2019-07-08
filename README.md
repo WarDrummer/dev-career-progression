@@ -12,7 +12,7 @@
 
 **Apprentice** - demonstrates a broad awareness of topics in a category; can perform work with some oversight
 
-**Journeyman** - demonstrates practiced knowledge of topics in a category; can perform work with little or no oversight and can assist others
+**Journeyman** - demonstrates practiced knowledge of topics in a category; can perform work with no oversight and can assist others
 
 **Master** - subject-matter expert of the topics in a category; leads adoption and continuous improvement across the organization
 
