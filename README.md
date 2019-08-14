@@ -192,7 +192,7 @@ Other
 - [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [ ] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441)
 
-#### Training
+#### Exercises
 - [ ] [HackerRank - Java Language Proficiency](https://www.hackerrank.com/domains/java)
 - [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 - [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
@@ -200,6 +200,7 @@ Other
   - [ ] Implement using array list
   - [ ] Implement using a linked list
   - [ ] Explain the trade-offs of the implementations
+- [ ] "HackerRank - Java Language Proficiency" problems
 
 </details>
 
@@ -208,13 +209,6 @@ Other
   
 #### Professional Experience
 - [ ] Maintain a weekly mentorship for 3 months; track what was discussed/learned
-- [ ] Complete "HackerRank - Java Language Proficiency" problems for the following sub-domains:
-  - [ ] Introduction
-  - [ ] Strings
-  - [ ] BigNumber
-  - [ ] Data Structures
-  - [ ] Object Oriented Programming
-  - [ ] Exception Handling
 - [ ] Demonstrate the importance of setting capacity on a data structure when applicable
 
 </details>
@@ -458,10 +452,17 @@ Suggested Books
   <summary>Resources and Exercises</summary>
   
 #### Resources
+
+Suggested Books
 - [ ] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+
+Suggested Blogs and Blog Posts
 - [ ] [Atlassian's Comparing Git Workflows article](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [ ] [Atlassian's Gitflow Workflow article](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [ ] [Road to Continuous Deployment - Intuit](https://quickbooks-engineering.intuit.com/road-to-continuous-deployment-65bd03b985fc)
+
+Suggested Websites
+- [ ] [Trunk Based Development](https://trunkbaseddevelopment.com/)
 
 #### Exercises
 - [ ] [Git Immersion](http://gitimmersion.com/lab_01.html)
@@ -474,17 +475,8 @@ Suggested Books
   <summary>Professional Experience</summary>
   
 #### Professional Experience
-- [ ] Setup a new Git repository and create the necessary branches for Gitflow
-- [ ] Create a feature using Gitflow
-- [ ] Create a release using Gitflow
-- [ ] Create a hotfix using Gitflow
-- [ ] Create a build plan in a CI/CD tool of your choice (e.g. Jenkins, Bamboo, GitLab, Azure DevOps) that does the following:
-  - [ ] Triggers a build when a new branch is created on the remote server
-  - [ ] Compiles the code on that branch
-  - [ ] Executes unit tests against the compiled code
-  - [ ] Attaches build artifacts to the build 
-- [ ] Configure a Git service to require a code review to merge into the develop branch
-- [ ] Configure a Git service to require a successful build to merge into the develop branch
+- [ ] Demonstrate the ability to create a CI pipeline in one or more tools
+- [ ] 
 
 </details>
 
