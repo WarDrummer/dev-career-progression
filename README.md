@@ -1,7 +1,14 @@
 # Software Development Career Plan
 
+This document is a collection of resources and ideas for accelerating skills development for software engineeers. While a lot of the skills are specific to object-oriented programming, there is plenty that isn't specific to any particular technology stack. It is not the intent that someone would read every book and work every exercise because:
 
-## Benefits of Career Progression Plan
+  1. Different people learn by different methods
+  1. There may be equivalent resources that people prefer to the ones listed here
+  1. No one should ever be **done** learning
+
+Instead, engineers are encouraged to work with a mentor to decide which skills and resources are going to be most useful.
+
+#### Why Should Organizations Have a Career Progression Plan?
 
 * Increase software development efficiency and ROI
 * Reduce bug rate and increase customer happiness
@@ -42,10 +49,37 @@
 
 ## Roles
 
-* [Developer](./roles/developer.md)
-* [Sr. Developer](./roles/senior_developer.md)
-* [Architect](./roles/architect.md)
-* [DevOps Specialist](./roles/devops_specialiest.md)
+### Developer
+
+|                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
+| -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
+| **Apprentice** |  X                       | X        | X                      | X                        | X                            | X          |
+| **Journeyman** |                          |          |                        |                          |                              |            |
+| **Master**     |                          |          |                        |                          |                              |            |
+
+### Senior Developer
+
+|                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
+| -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
+| **Apprentice** | X                        | X        | X                      | X                        | X                            | X          |
+| **Journeyman** | X                        | X        |                        |                          | X                            |            |
+| **Master**     |                          |          |                        |                          |                              |            |
+
+### Architect
+
+|                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
+| -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
+| **Apprentice** |  X                       | X        | X                      | X                        | X                            | X          |
+| **Journeyman** |                          | X        | X                      | X                        |                              |            |
+| **Master**     |                          |          |                        |                          |                              |            |
+
+### DevOps Specialist
+
+|                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
+| -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
+| **Apprentice** |                          |          |                        |                          | X                            | X          |
+| **Journeyman** |                          |          |                        |                          |                             |            |
+| **Master**     |                          |          |                        |                          |                              |            |
 
 ## <a name="automated-testing-apprentice"></a>Automated Testing (Apprentice)
 
