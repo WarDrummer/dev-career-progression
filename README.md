@@ -58,6 +58,9 @@ The ability to automate tests is critical to being able to deliver software quic
 - Testing Doubles (stubs, mocks, spies)
 - Code Coverage
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 
 Suggested Books
@@ -72,15 +75,22 @@ Suggested Blog Posts
 - [ ] ['The Way of Testivus', Artima Weblog](https://www.artima.com/weblogs/viewpost.jsp?thread=203994)
 - [ ] ['An Introduction to Code Coverage', Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
 - [ ] ['How much test coverage do I need? - The Testivus Answer', DeveloperTesting.com](http://www.developertesting.com/archives/month200705/20070504-000425.html)
-
+  
 #### Exercises
 - [ ] ['Roman Numerals - Coding Dojo', Coding Dojo](http://codingdojo.org/kata/RomanNumerals/)
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] Demonstrate the ability to get untested code under test before modifying or adding behavoirs 
 - [ ] Demonstrate the ability to use TDD to complete feature development
 - [ ] Explain the differences between different testing doubles (stubs, mocks, spies)
 - [ ] Demonstrate the use of code coverage to find and fill testing gaps
+
+</details>
 
 ## <a name="automated-testing-journeyman"></a>Automated Testing (Journeyman)
 
@@ -91,6 +101,9 @@ Suggested Blog Posts
 - End-to-End Testing
 - Advanced Unit Testing Techniques
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 
 Suggested Books
@@ -114,11 +127,21 @@ Other
 #### Exercises
 - [ ] [The Ray Tracer Challenge](https://www.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719)
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] Demonstrate the ability to create end-to-end tests using Cucumber or some equivalent ATDD tool
 
+</details>
+
 ## <a name="core-apprentice"></a>Core (Apprentice)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 - [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370)
 - [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
@@ -133,6 +156,11 @@ Other
   - [ ] Implement using a linked list
   - [ ] Explain the trade-offs of the implementations
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] Maintain a weekly mentorship for 3 months; track what was discussed/learned
 - [ ] Complete "HackerRank - Java Language Proficiency" problems for the following sub-domains:
@@ -144,8 +172,13 @@ Other
   - [ ] Exception Handling
 - [ ] Demonstrate the importance of setting capacity on a data structure when applicable
 
+</details>
+
 ## <a name="core-journeyman"></a>Core (Journeyman)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 
 Suggested Books
@@ -155,8 +188,15 @@ Suggested Books
 #### Exercises
 - [ ] Implement a Chip-8 Emulator
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] ...
+
+</details>
 
 ## <a name="design-patterns-apprentice"></a>Design Patterns (Apprentice)
 
@@ -174,6 +214,9 @@ Suggested Books
 - Strategy
 - Template Method
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 
 Suggested Books
@@ -194,6 +237,11 @@ Websites
 - [ ] [Design Patterns Library, PluralSight](https://www.pluralsight.com/courses/patterns-library)
 - [ ] [StringBuilder Workshop](../exercises/string_builder_workshop.md)
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] Describe the different categories of patterns: creational, structural, and behavioral
 - [ ] Identify design patterns in the tech stack (language, libraries, frameworks) used in projects you are a contributor
@@ -210,6 +258,8 @@ Websites
 - [ ] Appropriately apply the state pattern in a project
 - [ ] Appropriately apply, or identify the application of, the proxy pattern in a project
 
+</details>
+
 ## <a name="design-patterns-journeyman"></a>Design Patterns (Journeyman)
 
 #### Learning Goals/Topics
@@ -223,6 +273,9 @@ Websites
 - State
 - Visitor
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 ### Resources
 
 Suggested Books
@@ -231,11 +284,21 @@ Suggested Books
 ### Exercises
 - [ ] ...
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 ### Professional Experience
 - [ ] ...
 
+</details>
+
 ## <a name="design-principles-apprentice"></a>Design Principles (Apprentice)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [ ] [Don't Make Me Think Revisited](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
@@ -249,13 +312,23 @@ Suggested Books
 #### Exercises
 - [ ] ...
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] As part of a code review, identify a problem with poorly implemented constructor and suggest an alternative
 - [ ] As part of a code review, suggest a better name for a method or variable
 - [ ] ...
 
+</details>
+
 ## <a name="design-principles-journeyman"></a>Design Principles (Journeyman)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
   - [ ] Chapter 7, What is Agile Design?
@@ -271,11 +344,21 @@ Suggested Books
 #### Exercises
 - [ ] ...
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] Identify code stratifaction problem in code review
 
+</details>
+
 ## <a name="development-practices-apprentice"></a>Development Practices (Apprentice)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 - [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 - [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
@@ -288,6 +371,11 @@ Suggested Books
 #### Exercises
 - [ ] ...
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] Leave 10 comments across multiple code reviews that elicit code changes from the author (provide links to PRs)
 - [ ] Complete an entire feature using pair programming
@@ -295,20 +383,35 @@ Suggested Books
   - [ ] Scrum Open
   - [ ] Product Owner Open
   - [ ] Developer Open
-  
+
+</details>
+
 ## <a name="development-practices-journeyman"></a>Development Practices (Journeyman)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 - [ ] [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
 
 #### Exercises
 - [ ] ...
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] ...
 
+</details>
+
 ## <a name="devops-apprentice"></a>DevOps (Apprentice)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 - [ ] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 - [ ] [Atlassian's Comparing Git Workflows article](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -320,6 +423,11 @@ Suggested Books
 - [ ] [Intro to DevOps, Udacity](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [How to Use Git and Github, Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] Setup a new Git repository and create the necessary branches for Gitflow
 - [ ] Create a feature using Gitflow
@@ -333,8 +441,13 @@ Suggested Books
 - [ ] Configure a Git service to require a code review to merge into the develop branch
 - [ ] Configure a Git service to require a successful build to merge into the develop branch
 
+</details>
+
 ## <a name="devops-journeyman"></a>DevOps (Journeyman)
 
+<details>
+  <summary>Resources and Exercises</summary>
+  
 #### Resources
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
   - [ ] Chapter 28, Principles of Package and Component Design
@@ -342,5 +455,12 @@ Suggested Books
 #### Exercises
 - [ ] ...
 
+</details>
+
+<details>
+  <summary>Professional Experience</summary>
+  
 #### Professional Experience
 - [ ] ...
+
+</details>
