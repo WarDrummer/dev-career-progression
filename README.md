@@ -8,7 +8,7 @@ This document is a collection of resources and ideas for accelerating skills dev
 
 Instead, engineers are encouraged to work with a mentor to decide which skills and resources are going to be most useful.
 
-## Why should organizations have a career progression plan?
+#### Why should organizations have a career progression plan?
 
 * Increase software development efficiency and ROI
 * Reduce bug rate and increase customer happiness
