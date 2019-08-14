@@ -8,37 +8,40 @@ This document is a collection of resources and ideas for accelerating skills dev
 
 Instead, engineers are encouraged to work with a mentor to decide which skills and resources are going to be most useful.
 
-#### Why Should Organizations Have a Career Progression Plan?
+## Why should organizations have a career progression plan?
 
 * Increase software development efficiency and ROI
 * Reduce bug rate and increase customer happiness
 * Identify knowledge gaps in teams and across the organization
 * Increase developer job satisfaction and retention
 
-## Proficiency Levels
+## How is the plan implemented?
 
-**Apprentice** - demonstrates a broad awareness of topics in a category; can perform work with some oversight
+The plan consists of 3 levels of proficiency across 6 skill categories. These are used to create a skills/proficiency matrix which provides a suggested target proficiency for specific roles. This means that individuals in those respective roles aren't expected to have those proficiencies, but to be working toward them.
 
-**Journeyman** - demonstrates practiced knowledge of topics in a category; can perform work with no oversight and can assist others
+### Proficiency Levels
 
-**Master** - subject-matter expert of the topics in a category; leads adoption and continuous improvement across the organization
+*Apprentice* - demonstrates a broad awareness of topics in a category; can perform work with some oversight
 
-## Skill Categories
+*Journeyman* - demonstrates practiced knowledge of topics in a category; can perform work with no oversight and can assist others
 
-**Automated Testing** - unit testing, integration testing, end-to-end testing, test-driven development
+*Master* - subject-matter expert of the topics in a category; leads adoption and continuous improvement across the organization
 
-**Core** - algorithms, data structures, soft skills / professionalism
+### Skill Categories
 
-**Design Patterns** - fundamental and enterprise patterns
+*Automated Testing* - unit testing, integration testing, end-to-end testing, test-driven development
 
-**Design Principles** - object-oriented programming principles, packaging principles, antipatterns, metrics, UX
+*Core* - algorithms, data structures, soft skills / professionalism
 
-**Development Practices** - code review, debugging, pair programming, refactoring, Scrum
+*Design Patterns* - fundamental and enterprise patterns
 
-**DevOps** - source control (git), continuous integration, continuous delivery
+*Design Principles* - object-oriented programming principles, packaging principles, antipatterns, metrics, UX
 
+*Development Practices* - code review, debugging, pair programming, refactoring, Scrum
 
-## Skill / Proficiency Matrix
+*DevOps* - source control (git), continuous integration, continuous delivery
+
+### Skill / Proficiency Matrix
 
 |                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
@@ -79,6 +82,14 @@ Instead, engineers are encouraged to work with a mentor to decide which skills a
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
 | **Apprentice** |                          |          |                        |                          | X                            | X          |
 | **Journeyman** |                          |          |                        |                          |                             |            |
+| **Master**     |                          |          |                        |                          |                              |            |
+
+### Senior DevOps Specialist
+
+|                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
+| -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
+| **Apprentice** |                          |        X |                        |                          | X                            | X          |
+| **Journeyman** |                          |          |                        |                          | X                           |          X |
 | **Master**     |                          |          |                        |                          |                              |            |
 
 ## <a name="automated-testing-apprentice"></a>Automated Testing (Apprentice)
