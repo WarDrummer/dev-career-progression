@@ -49,9 +49,22 @@
 
 ## <a name="automated-testing-apprentice"></a>Automated Testing (Apprentice)
 
-#### Reading
+The ability to automate tests is critical to being able to deliver software quickly without sacrificing an acceptable level of quality. Manual testing, including using a debugger to verify code is working, is slow and costly. Unit testing, in particular, enables developers to quickly add or modify code without the fear of unknowingly breaking existing functionality.
 
-- [ ] [The Art of Unit Testing (C#)](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/) or [Effective Unit Testing (Java)](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
+#### Learning Goals/Topics
+- Unit Testing
+- Test-Driven Development (TDD)
+- Pinning/Characterization Tests
+- Testing Doubles (stubs, mocks, spies)
+- Code Coverage
+
+#### Resources
+
+Suggested Books
+- [ ] [The Art of Unit Testing (C#)](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/) 
+- [ ] [Effective Unit Testing (Java)](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
+
+Suggested Blog Posts
 - [ ] ['Writing Descriptive Test Names', Google Testing Blog](https://testing.googleblog.com/2014/10/testing-on-toilet-writing-descriptive.html)
 - [ ] ['Don't Put Logic in Tests', Google Testing Blog](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html) 
 - [ ] ['Test Behaviors, Not Methods', Google Testing Blog](https://testing.googleblog.com/2014/04/testing-on-toilet-test-behaviors-not.html)
@@ -60,22 +73,31 @@
 - [ ] ['An Introduction to Code Coverage', Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
 - [ ] ['How much test coverage do I need? - The Testivus Answer', DeveloperTesting.com](http://www.developertesting.com/archives/month200705/20070504-000425.html)
 
-#### Training
+#### Exercises
 - [ ] ['Roman Numerals - Coding Dojo', Coding Dojo](http://codingdojo.org/kata/RomanNumerals/)
 
 #### Professional Experience
-- [ ] Add unit tests for an existing class prior to adding or changing behavior in that class
-- [ ] Use test-driven development (TDD) to complete one user story / work item / PBI
-- [ ] Make use of a stub in at least one unit test
-- [ ] Make use of a mock in at least one unit test
-- [ ] Make use of a spy in at least one unit test
-- [ ] Use a coverage tool to identify gaps in unit tests
+- [ ] Demonstrate the ability to get untested code under test before modifying or adding behavoirs 
+- [ ] Demonstrate the ability to use TDD to complete feature development
+- [ ] Explain the differences between different testing doubles (stubs, mocks, spies)
+- [ ] Demonstrate the use of code coverage to find and fill testing gaps
 
 ## <a name="automated-testing-journeyman"></a>Automated Testing (Journeyman)
 
-#### Reading
+#### Learning Goals/Topics
+- Acceptance Test-Driven Development (ATDD)
+  - Gherkin
+- Integration Testing
+- End-to-End Testing
+- Advanced Unit Testing Techniques
+
+#### Resources
+
+Suggested Books
 - [ ] [The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/dp/1941222293)
 - [ ] [Working Effectively with Legacy Code, Chapters 1-24](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+
+Suggested Blog Posts
 - [ ] ['What Makes a Good Test?', Google Testing Blog](https://testing.googleblog.com/2014/03/testing-on-toilet-what-makes-good-test.html)
 - [ ] ['What Makes a Good End-to-End Test?', Google Testing Blog](https://testing.googleblog.com/2016/09/testing-on-toilet-what-makes-good-end.html)
 - [ ] ['Test Behavior, Not Implementation'](https://testing.googleblog.com/2013/08/testing-on-toilet-test-behavior-not.html)
@@ -85,24 +107,19 @@
 - [ ] [Test-Driven Development By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 - [ ] [How to Misuse Code Coverage](http://www.exampler.com/testing-com/writings/coverage.pdf)
 - [ ] ['Don't Overuse Mocks', Google Testing Blog](https://testing.googleblog.com/2013/05/testing-on-toilet-dont-overuse-mocks.html)
+
+Other
 - [ ] Limit invariants to improve tests
 
-#### Training
+#### Exercises
 - [ ] [The Ray Tracer Challenge](https://www.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719)
-  - [ ] Complete all exercises by automating Gherkin acceptance tests
 
 #### Professional Experience
-- [ ] Create a suite of automated end-to-end tests using Cucumber or some equivalent BDD tool
-- [ ] Write unit tests (and perform necessary refactoring) for a class that has an "Irritating Parameter"
-- [ ] Write unit tests (and perform necessary refactoring) for a class that has a "Hidden Dependency"
-- [ ] Write unit tests (and perform necessary refactoring) for a class that has a "Construction Blob"
-- [ ] Write unit tests (and perform necessary refactoring) for a class that has an "Irritating Global Dependency"
-- [ ] Write unit tests (and perform necessary refactoring) for a class that has an "Onion Parameter"
-- [ ] Write unit tests (and perform necessary refactoring) for a class that has a "Aliased Parameter"
+- [ ] Demonstrate the ability to create end-to-end tests using Cucumber or some equivalent ATDD tool
 
 ## <a name="core-apprentice"></a>Core (Apprentice)
 
-#### Reading
+#### Resources
 - [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370)
 - [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [ ] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441)
@@ -129,11 +146,13 @@
 
 ## <a name="core-journeyman"></a>Core (Journeyman)
 
-#### Reading
+#### Resources
+
+Suggested Books
 - [ ] [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 - [ ] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
-#### Training
+#### Exercises
 - [ ] Implement a Chip-8 Emulator
 
 #### Professional Experience
@@ -141,24 +160,38 @@
 
 ## <a name="design-patterns-apprentice"></a>Design Patterns (Apprentice)
 
-#### Reading
+#### Learning Goals/Topics
+- Types of Design Patterns (Creational, Structural, and Behavioral)
+- Adapter
+- Builder
+- Command
+- Factory
+- Fluent Interface
+- Null Object
+- Monostate
+- Repository
+- Singleton
+- Strategy
+- Template Method
+
+#### Resources
+
+Suggested Books
 - [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+
+Suggested Blog Posts
 - [ ] [The Monostate pattern](https://www.simplethread.com/the-monostate-pattern/)
 - [ ] [Fluent Interface](https://martinfowler.com/bliki/FluentInterface.html)
 - [ ] [Builder Pattern](https://www.geeksforgeeks.org/builder-design-pattern/)
 
-#### Training
+Websites
+- [ ] https://www.dofactory.com/net/design-patterns
+- [ ] https://github.com/iluwatar/java-design-patterns
+- [ ] https://www.javatpoint.com/design-patterns-in-java
+
+#### Exercises
 - [ ] [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 - [ ] [Design Patterns Library, PluralSight](https://www.pluralsight.com/courses/patterns-library)
-  - [ ] Adapter
-  - [ ] Builder
-  - [ ] Command
-  - [ ] Factory
-  - [ ] Null Object
-  - [ ] Repository
-  - [ ] Singleton
-  - [ ] Strategy
-  - [ ] Template Method
 - [ ] [StringBuilder Workshop](../exercises/string_builder_workshop.md)
 
 #### Professional Experience
@@ -177,33 +210,25 @@
 - [ ] Appropriately apply the state pattern in a project
 - [ ] Appropriately apply, or identify the application of, the proxy pattern in a project
 
-#### Other Resources
-
-.NET
-* https://www.dofactory.com/net/design-patterns
-
-Java
-* https://github.com/iluwatar/java-design-patterns
-* https://www.javatpoint.com/design-patterns-in-java
-
 ## <a name="design-patterns-journeyman"></a>Design Patterns (Journeyman)
 
-### Reading
-- [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
-  - [ ] Chapter 21, Command and Active Object: Versatility and Multitasking
-  - [ ] Chapter 22, Template Method and Strategy: Inheritance versus Delegation
-  - [ ] Chapter 23, Facade and Mediator
-  - [ ] Chapter 24, Singleton and Monostate
-  - [ ] Chapter 25, Null Object
-  - [ ] Chapter 29, Factory
-  - [ ] Chapter 31, Composite
-  - [ ] Chapter 32, Observer: Evolving into a Pattern
-  - [ ] Chapter 33, Abstract Server, Adapter, and Bridge
-  - [ ] Chapter 34, Proxy and Gateway: Managing Third-Party APIs
-  - [ ] Chapter 35, Visitor
-  - [ ] Chapter 36, State
+#### Learning Goals/Topics
+- Adapter
+- Bridge
+- Composite
+- Facade
+- Mediator
+- Observer
+- Proxy
+- State
+- Visitor
 
-### Training
+### Resources
+
+Suggested Books
+- [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
+
+### Exercises
 - [ ] ...
 
 ### Professional Experience
@@ -211,7 +236,7 @@ Java
 
 ## <a name="design-principles-apprentice"></a>Design Principles (Apprentice)
 
-#### Reading
+#### Resources
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [ ] [Don't Make Me Think Revisited](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 - [ ] ['Don't Repeat Yourself', Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -221,7 +246,7 @@ Java
 - [ ] [Beware the Bloated Constructor, DaedTech Blog](https://daedtech.com/beware-the-bloated-constructor/)
 - [ ] [How to Write Unmaintainable Code](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 
-#### Training
+#### Exercises
 - [ ] ...
 
 #### Professional Experience
@@ -231,7 +256,7 @@ Java
 
 ## <a name="design-principles-journeyman"></a>Design Principles (Journeyman)
 
-#### Reading
+#### Resources
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
   - [ ] Chapter 7, What is Agile Design?
   - [ ] Chapter 8, The Single-Responsibility Principle (SRP)
@@ -243,7 +268,7 @@ Java
 - [ ] ['Is Design Dead?', Martin Fowler Bliki](https://martinfowler.com/articles/designDead.html)
 - [ ] ['Tony Hoare, Apologies and Retractions', Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare#Apologies_and_retractions)
 
-#### Training
+#### Exercises
 - [ ] ...
 
 #### Professional Experience
@@ -251,7 +276,7 @@ Java
 
 ## <a name="development-practices-apprentice"></a>Development Practices (Apprentice)
 
-#### Reading
+#### Resources
 - [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 - [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 - [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)
@@ -260,7 +285,7 @@ Java
 - [ ] [Scrum Guide](https://www.scrum.org/resources/scrum-guide)
 - [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/)
 
-#### Training
+#### Exercises
 - [ ] ...
 
 #### Professional Experience
@@ -273,10 +298,10 @@ Java
   
 ## <a name="development-practices-journeyman"></a>Development Practices (Journeyman)
 
-#### Reading
+#### Resources
 - [ ] [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
 
-#### Training
+#### Exercises
 - [ ] ...
 
 #### Professional Experience
@@ -284,13 +309,13 @@ Java
 
 ## <a name="devops-apprentice"></a>DevOps (Apprentice)
 
-#### Reading
+#### Resources
 - [ ] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 - [ ] [Atlassian's Comparing Git Workflows article](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [ ] [Atlassian's Gitflow Workflow article](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [ ] [Road to Continuous Deployment - Intuit](https://quickbooks-engineering.intuit.com/road-to-continuous-deployment-65bd03b985fc)
 
-#### Training
+#### Exercises
 - [ ] [Git Immersion](http://gitimmersion.com/lab_01.html)
 - [ ] [Intro to DevOps, Udacity](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [How to Use Git and Github, Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -310,11 +335,11 @@ Java
 
 ## <a name="devops-journeyman"></a>DevOps (Journeyman)
 
-#### Reading
+#### Resources
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
   - [ ] Chapter 28, Principles of Package and Component Design
 
-#### Training
+#### Exercises
 - [ ] ...
 
 #### Professional Experience
