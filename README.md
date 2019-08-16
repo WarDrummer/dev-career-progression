@@ -172,7 +172,7 @@ Developers need to be able to understand how their automated tests are directly 
 - [ ] [How to Misuse Code Coverage](http://www.exampler.com/testing-com/writings/coverage.pdf)
 - [ ] ['Don't Overuse Mocks', Google Testing Blog](https://testing.googleblog.com/2013/05/testing-on-toilet-dont-overuse-mocks.html)
 
-Other
+#### Other
 - [ ] Limit invariants to improve tests
 
 </details>
