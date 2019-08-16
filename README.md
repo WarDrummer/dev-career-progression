@@ -52,7 +52,11 @@ The plan consists of 3 levels of proficiency across 6 skill categories. These ar
 
 ## Roles
 
+The tables below suggest different roles for a software development shop along with levels of competencies to target within each category.
+
 ### Developer
+
+The goal of building the competencies below is to establish a baseline understanding of software development skills. 
 
 |                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
@@ -134,10 +138,13 @@ Suggested Blog Posts
 - [ ] Demonstrate the ability to use TDD to complete feature development
 - [ ] Explain the differences between different testing doubles (stubs, mocks, spies)
 - [ ] Demonstrate the use of code coverage to find and fill testing gaps
+- [ ] Explain common automated testing acronyms and patterns (A.A.A., F.I.R.S.T., Red-Green-Refactor)
 
 </details>
 
 ## <a name="automated-testing-journeyman"></a>Automated Testing (Journeyman)
+
+Developers need to be able to understand how their automated tests are directly linked to business value. Acceptance Test-Driven Development leads the developer to create their tests in a domain language that should be readable by non-technical resources. Also, integration and end-to-end tests can be used to validate automated deployments, ensuring an effective delivery pipeline that enables faster delivery of business value.
 
 #### Learning Goals/Topics
 - Acceptance Test-Driven Development (ATDD)
@@ -178,7 +185,14 @@ Other
   <summary>Professional Experience</summary>
   
 #### Professional Experience
+- [ ] Demonstrate the ability to break down requirements into Gherkin syntax that can be used for automation
 - [ ] Demonstrate the ability to create end-to-end tests using Cucumber or some equivalent ATDD tool
+- [ ] Demonstrate the ability to create integration tests that verify interactions between to separately deployed systems (e.g. API and database)
+- [ ] Demonstrate the ability to limit invariants in tests and explain how it can improve test quality
+- [ ] Explain how cyclomatic complexity can be used to evaluate the quality of automated tests
+- [ ] Explain the use and misuse of code coverage tools
+- [ ] Demonstrate the ability to code review automated tests; identify good qualities and suggest improvements
+- [ ] Explain the testing pyramid and how to decide home much of each testing type (unit, intergration, end-to-end) is necessary
 
 </details>
 
@@ -188,19 +202,23 @@ Other
   <summary>Resources and Exercises</summary>
   
 #### Resources
+
+Suggested Books
 - [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370)
 - [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [ ] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441)
 
-#### Exercises
-- [ ] [HackerRank - Java Language Proficiency](https://www.hackerrank.com/domains/java)
-- [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
+Online Training
 - [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
+- [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
+
+#### Exercises
+- [ ] [StringBuilder Workshop](./exercises/string_builder_workshop.md)
+- [ ] [HackerRank - Java Language Proficiency](https://www.hackerrank.com/domains/java)
 - [ ] [Advent of Code, Day 19: An Elephant Named Joseph](https://adventofcode.com/2016/day/19)
   - [ ] Implement using array list
   - [ ] Implement using a linked list
   - [ ] Explain the trade-offs of the implementations
-- [ ] "HackerRank - Java Language Proficiency" problems
 
 </details>
 
@@ -208,9 +226,13 @@ Other
   <summary>Professional Experience</summary>
   
 #### Professional Experience
-- [ ] Maintain a weekly mentorship for 3 months; track what was discussed/learned
-- [ ] Demonstrate the importance of setting capacity on a data structure when applicable
-
+- [ ] Maintain a weekly mentorship for 3 months; keep a log of what was discussed/learned
+- [ ] Demonstrate the ability to select and use the best data structures in the current tech stack
+  - [ ] Explain the tradeoffs between an array and a linked list
+  - [ ] Explain the difference between a stack and a queue
+  - [ ] Explain the implementation of commonly used data structures in the current tech stack
+  
+  
 </details>
 
 ## <a name="core-journeyman"></a>Core (Journeyman)
@@ -274,7 +296,7 @@ Websites
 #### Exercises
 - [ ] [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 - [ ] [Design Patterns Library, PluralSight](https://www.pluralsight.com/courses/patterns-library)
-- [ ] [StringBuilder Workshop](../exercises/string_builder_workshop.md)
+- [ ] [StringBuilder Workshop](./exercises/string_builder_workshop.md)
 
 </details>
 
@@ -475,8 +497,7 @@ Suggested Websites
   <summary>Professional Experience</summary>
   
 #### Professional Experience
-- [ ] Demonstrate the ability to create a CI pipeline in one or more tools
-- [ ] 
+- [ ] Demonstrate the ability to create a CI pipeline in one or more tools (e.g. Jenkins, BitBucket Pipelines, Azure DevOps, GitLab, Travis CI)
 
 </details>
 
@@ -487,7 +508,6 @@ Suggested Websites
   
 #### Resources
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
-  - [ ] Chapter 28, Principles of Package and Component Design
 
 #### Exercises
 - [ ] ...
