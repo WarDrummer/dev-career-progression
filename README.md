@@ -108,9 +108,7 @@ The ability to automate tests is critical to being able to deliver software quic
 - Code Coverage
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [The Art of Unit Testing (C#)](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/) 
@@ -124,16 +122,19 @@ Suggested Blog Posts
 - [ ] ['The Way of Testivus', Artima Weblog](https://www.artima.com/weblogs/viewpost.jsp?thread=203994)
 - [ ] ['An Introduction to Code Coverage', Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
 - [ ] ['How much test coverage do I need? - The Testivus Answer', DeveloperTesting.com](http://www.developertesting.com/archives/month200705/20070504-000425.html)
-  
-#### Exercises
+
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] ['Roman Numerals - Coding Dojo', Coding Dojo](http://codingdojo.org/kata/RomanNumerals/)
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-#### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] Demonstrate the ability to get untested code under test before modifying or adding behavoirs 
 - [ ] Demonstrate the ability to use TDD to complete feature development
 - [ ] Explain the differences between different testing doubles (stubs, mocks, spies)
@@ -154,9 +155,7 @@ Developers need to be able to understand how their automated tests are directly 
 - Advanced Unit Testing Techniques
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/dp/1941222293)
@@ -176,15 +175,18 @@ Suggested Blog Posts
 Other
 - [ ] Limit invariants to improve tests
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] [The Ray Tracer Challenge](https://www.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719)
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
+  <summary>Milestones</summary>
   
-#### Professional Experience
 - [ ] Demonstrate the ability to break down requirements into Gherkin syntax that can be used for automation
 - [ ] Demonstrate the ability to create end-to-end tests using Cucumber or some equivalent ATDD tool
 - [ ] Demonstrate the ability to create integration tests that verify interactions between to separately deployed systems (e.g. API and database)
@@ -201,9 +203,7 @@ Other
 While most developers won't need to implement data structures or complex algorithms in their day-to-day development tasks, an understanding of how the tools they use daily work enables them to make better decisions and, also, reason about what may be going wrong.
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370)
@@ -214,7 +214,11 @@ Online Training
 - [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
 - [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] [StringBuilder Workshop](./exercises/string_builder_workshop.md)
 - [ ] [HackerRank - Java Language Proficiency](https://www.hackerrank.com/domains/java)
 - [ ] [Advent of Code, Day 19: An Elephant Named Joseph](https://adventofcode.com/2016/day/19)
@@ -225,9 +229,8 @@ Online Training
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
+  <summary>Milestones</summary>
   
-#### Professional Experience
 - [ ] Maintain a weekly mentorship for 3 months; keep a log of what was discussed/learned
 - [ ] Demonstrate the ability to select and use the best data structures in the current tech stack
   - [ ] Explain the tradeoffs between an array and a linked list
@@ -241,23 +244,24 @@ Online Training
 Performance problems and memory leaks aren't something that developers generally have to deal with everyday. However, having the skills in-house to deal with these complex issues is far cheaper than paying a consultant to quickly diagnose and resolve a problem that has end users in a panic.
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 - [ ] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] Implement a Chip-8 Emulator
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
+  <summary>Milestones</summary>
   
-#### Professional Experience
 - [ ] ...
 
 </details>
@@ -280,9 +284,7 @@ Suggested Books
   - Template Method
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
@@ -297,7 +299,11 @@ Websites
 - [ ] https://github.com/iluwatar/java-design-patterns
 - [ ] https://www.javatpoint.com/design-patterns-in-java
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 - [ ] [Design Patterns Library, PluralSight](https://www.pluralsight.com/courses/patterns-library)
 - [ ] [StringBuilder Workshop](./exercises/string_builder_workshop.md)
@@ -305,9 +311,8 @@ Websites
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
+  <summary>Milestones</summary>
   
-#### Professional Experience
 - [ ] Describe the different categories of patterns: creational, structural, and behavioral
 - [ ] Identify design patterns in the tech stack (language, libraries, frameworks) used in projects you are a contributor
 - [ ] Appropriately apply the abstract factory pattern in a project
@@ -345,24 +350,25 @@ Websites
   - Visitor
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 - [ ] [Cloud Native Patterns: Designing change-tolerant software](https://www.amazon.com/Cloud-Native-Designing-change-tolerant-software/dp/1617294292)
 - [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
-### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] ...
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] ...
 
 </details>
@@ -370,9 +376,7 @@ Suggested Books
 ## <a name="design-principles-apprentice"></a>Design Principles (Apprentice)
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -388,15 +392,18 @@ Suggested Blogs/Blog Posts
 Other
 - [ ] [How to Write Unmaintainable Code](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] ...
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-#### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] As part of a code review, identify a problem with poorly implemented constructor and suggest an alternative
 - [ ] As part of a code review, suggest a better name for a method or variable
 
@@ -405,23 +412,25 @@ Other
 ## <a name="design-principles-journeyman"></a>Design Principles (Journeyman)
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
+
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 - [ ] ['Is Design Dead?', Martin Fowler Bliki](https://martinfowler.com/articles/designDead.html)
 - [ ] ['Tony Hoare, Apologies and Retractions', Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare#Apologies_and_retractions)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] ...
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-#### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] Demonstrate the ability to identify and correct code stratifaction problems
 - [ ] Explain S.O.L.I.D. principles
 - [ ] Explain General Responsibility Assignment Software Patterns/Principles (GRASP)
@@ -431,9 +440,8 @@ Other
 ## <a name="development-practices-apprentice"></a>Development Practices (Apprentice)
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
+
 - [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 - [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 - [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)
@@ -442,15 +450,18 @@ Other
 - [ ] [Scrum Guide](https://www.scrum.org/resources/scrum-guide)
 - [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] ...
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-#### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] Leave 10 comments across multiple code reviews that elicit code changes from the author (provide links to PRs)
 - [ ] Complete an entire feature using pair programming
 - [ ] Pass [Scrum Open Assessments](https://www.scrum.org/open-assessments)
@@ -463,20 +474,22 @@ Other
 ## <a name="development-practices-journeyman"></a>Development Practices (Journeyman)
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
+
 - [ ] [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] ...
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-#### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] Demonstrate an understanding of Package and Component Design
   - [ ] Explain the Reuse/Release Equivalence Principle
   - [ ] Explain the Common Reuse Principle
@@ -490,9 +503,7 @@ Other
 ## <a name="devops-apprentice"></a>DevOps (Apprentice)
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
 
 Suggested Books
 - [ ] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
@@ -505,7 +516,11 @@ Suggested Blogs and Blog Posts
 Suggested Websites
 - [ ] [Trunk Based Development](https://trunkbaseddevelopment.com/)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] [Git Immersion](http://gitimmersion.com/lab_01.html)
 - [ ] [Intro to DevOps, Udacity](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [How to Use Git and Github, Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -513,9 +528,8 @@ Suggested Websites
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-#### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] Demonstrate the ability to create a CI pipeline in one or more tools (e.g. Jenkins, BitBucket Pipelines, Azure DevOps, GitLab, Travis CI)
 
 </details>
@@ -523,20 +537,22 @@ Suggested Websites
 ## <a name="devops-journeyman"></a>DevOps (Journeyman)
 
 <details>
-  <summary>Resources and Exercises</summary>
-  
-#### Resources
+  <summary>Resources</summary>
+
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
 
-#### Exercises
+</details>
+
+<details>
+  <summary>Exercises</summary>
+
 - [ ] ...
 
 </details>
 
 <details>
-  <summary>Professional Experience</summary>
-  
-#### Professional Experience
+  <summary>Milestones</summary>
+
 - [ ] ...
 
 </details>
