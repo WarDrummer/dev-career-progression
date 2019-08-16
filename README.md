@@ -110,11 +110,11 @@ The ability to automate tests is critical to being able to deliver software quic
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
 - [ ] [The Art of Unit Testing (C#)](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/) 
 - [ ] [Effective Unit Testing (Java)](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
 
-Suggested Blog Posts
+#### Suggested Blog Posts
 - [ ] ['Writing Descriptive Test Names', Google Testing Blog](https://testing.googleblog.com/2014/10/testing-on-toilet-writing-descriptive.html)
 - [ ] ['Don't Put Logic in Tests', Google Testing Blog](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html) 
 - [ ] ['Test Behaviors, Not Methods', Google Testing Blog](https://testing.googleblog.com/2014/04/testing-on-toilet-test-behaviors-not.html)
@@ -157,11 +157,11 @@ Developers need to be able to understand how their automated tests are directly 
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
 - [ ] [The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/dp/1941222293)
 - [ ] [Working Effectively with Legacy Code, Chapters 1-24](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
-Suggested Blog Posts
+#### Suggested Blog Posts
 - [ ] ['What Makes a Good Test?', Google Testing Blog](https://testing.googleblog.com/2014/03/testing-on-toilet-what-makes-good-test.html)
 - [ ] ['What Makes a Good End-to-End Test?', Google Testing Blog](https://testing.googleblog.com/2016/09/testing-on-toilet-what-makes-good-end.html)
 - [ ] ['Test Behavior, Not Implementation'](https://testing.googleblog.com/2013/08/testing-on-toilet-test-behavior-not.html)
@@ -205,12 +205,13 @@ While most developers won't need to implement data structures or complex algorit
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
 - [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370)
 - [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [ ] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441)
 - [ ] [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
-Online Training
+
+#### Online Training
 - [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
 - [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
@@ -246,7 +247,7 @@ Performance problems and memory leaks aren't something that developers generally
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
 - [ ] [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 - [ ] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
@@ -289,15 +290,15 @@ Suggested Books
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
 - [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
-Suggested Blog Posts
+#### Suggested Blog Posts
 - [ ] [The Monostate pattern](https://www.simplethread.com/the-monostate-pattern/)
 - [ ] [Fluent Interface](https://martinfowler.com/bliki/FluentInterface.html)
 - [ ] [Builder Pattern](https://www.geeksforgeeks.org/builder-design-pattern/)
 
-Websites
+#### Websites
 - [ ] https://www.dofactory.com/net/design-patterns
 - [ ] https://github.com/iluwatar/java-design-patterns
 - [ ] https://www.javatpoint.com/design-patterns-in-java
@@ -355,7 +356,7 @@ Websites
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
 - [ ] [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 - [ ] [Cloud Native Patterns: Designing change-tolerant software](https://www.amazon.com/Cloud-Native-Designing-change-tolerant-software/dp/1617294292)
 - [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
@@ -381,18 +382,18 @@ Suggested Books
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [ ] [Don't Make Me Think Revisited](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
-Suggested Blogs/Blog Posts
+#### Suggested Blog Posts
 - [ ] ['Don't Repeat Yourself', Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [ ] ['When Does DRY become ARID?', Jeremy Bytes Blog](https://jeremybytes.blogspot.com/2015/08/when-does-dry-become-arid.html)
 - [ ] ['YAGNI', Martin Fowler Bliki](https://martinfowler.com/bliki/Yagni.html)
 - [ ] [Your Constructors are Completely Irrational, The Code Whisperer Blog](https://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational)
 - [ ] [Beware the Bloated Constructor, DaedTech Blog](https://daedtech.com/beware-the-bloated-constructor/)
 
-Other
+#### Other
 - [ ] [How to Write Unmaintainable Code](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 
 </details>
@@ -417,8 +418,11 @@ Other
 <details>
   <summary>Resources</summary>
 
+#### Suggested Books
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+
+#### Suggested Blog Posts
 - [ ] ['Is Design Dead?', Martin Fowler Bliki](https://martinfowler.com/articles/designDead.html)
 - [ ] ['Tony Hoare, Apologies and Retractions', Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare#Apologies_and_retractions)
 
@@ -445,13 +449,20 @@ Other
 <details>
   <summary>Resources</summary>
 
+#### Suggested Books
 - [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-- [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
-- [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)
-- [ ] [Business Case for Better Software Practices](https://www.construx.com/resources/business-case-for-better-software-practices/)
 - [ ] [20 Patterns to Watch For in Your Engineering Team](https://resources.gitprime.com/books/20-patterns/)
 - [ ] [Scrum Guide](https://www.scrum.org/resources/scrum-guide)
 - [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/)
+
+#### Suggested Blog Posts
+- [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)x
+
+#### Suggested Whitepapers
+- [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
+
+#### Other
+- [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 
 </details>
 
@@ -479,6 +490,7 @@ Other
 <details>
   <summary>Resources</summary>
 
+#### Suggested Books
 - [ ] [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
 
 </details>
@@ -508,15 +520,16 @@ Other
 <details>
   <summary>Resources</summary>
 
-Suggested Books
+#### Suggested Books
+- [ ] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [ ] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 
-Suggested Blogs and Blog Posts
+#### Suggested Blog Posts
 - [ ] [Atlassian's Comparing Git Workflows article](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [ ] [Atlassian's Gitflow Workflow article](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [ ] [Road to Continuous Deployment - Intuit](https://quickbooks-engineering.intuit.com/road-to-continuous-deployment-65bd03b985fc)
 
-Suggested Websites
+#### Suggested Websites
 - [ ] [Trunk Based Development](https://trunkbaseddevelopment.com/)
 
 </details>
@@ -542,7 +555,11 @@ Suggested Websites
 <details>
   <summary>Resources</summary>
 
-- [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
+#### Suggested Books
+- [ ] [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+
+#### Suggested Blog Posts
+- [ ] [State of DevOps](https://puppet.com/blog-tags/state-devops)
 
 </details>
 
