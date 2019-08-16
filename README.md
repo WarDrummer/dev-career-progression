@@ -269,7 +269,10 @@ Suggested Books
 ## <a name="design-patterns-apprentice"></a>Design Patterns (Apprentice)
 
 #### Learning Goals/Topics
-- Types of Design Patterns (Creational, Structural, and Behavioral)
+- Types of Design Patterns
+  - Creational
+  - Structural
+  - Behavioral
 - Design Patterns
   - Adapter
   - Builder
