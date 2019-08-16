@@ -85,7 +85,7 @@ The goal of building the competencies below is to establish a baseline understan
 |                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
 | **Apprentice** |                          |          |                        |                          | X                            | X          |
-| **Journeyman** |                          |          |                        |                          |                             |            |
+| **Journeyman** |                          |          |                        |                          |                              |            |
 | **Master**     |                          |          |                        |                          |                              |            |
 
 ### Senior DevOps Specialist
@@ -93,7 +93,7 @@ The goal of building the competencies below is to establish a baseline understan
 |                | **Automated<br>Testing** | **Core** | **Design<br>Patterns** | **Design<br>Principles** | **Development<br>Practices** | **DevOps** |
 | -------------: | :----------------------: | :------: | :--------------------: | :----------------------: | :--------------------------: | :--------: |
 | **Apprentice** |                          |        X |                        |                          | X                            | X          |
-| **Journeyman** |                          |          |                        |                          | X                           |          X |
+| **Journeyman** |                          |          |                        |                          | X                            | X          |
 | **Master**     |                          |          |                        |                          |                              |            |
 
 ## <a name="automated-testing-apprentice"></a>Automated Testing (Apprentice)
@@ -198,6 +198,8 @@ Other
 
 ## <a name="core-apprentice"></a>Core (Apprentice)
 
+While most developers won't need to implement data structures or complex algorithms in their day-to-day development tasks, an understanding of how the tools they use daily work enables them to make better decisions and, also, reason about what may be going wrong.
+
 <details>
   <summary>Resources and Exercises</summary>
   
@@ -207,7 +209,7 @@ Suggested Books
 - [ ] [Conceptual Blockbusting](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370)
 - [ ] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [ ] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441)
-
+- [ ] [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 Online Training
 - [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
 - [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
@@ -232,10 +234,11 @@ Online Training
   - [ ] Explain the difference between a stack and a queue
   - [ ] Explain the implementation of commonly used data structures in the current tech stack
   
-  
 </details>
 
 ## <a name="core-journeyman"></a>Core (Journeyman)
+
+Performance problems and memory leaks aren't something that developers generally have to deal with everyday. However, having the skills in-house to deal with these complex issues is far cheaper than paying a consultant to quickly diagnose and resolve a problem that has end users in a panic.
 
 <details>
   <summary>Resources and Exercises</summary>
@@ -263,17 +266,18 @@ Suggested Books
 
 #### Learning Goals/Topics
 - Types of Design Patterns (Creational, Structural, and Behavioral)
-- Adapter
-- Builder
-- Command
-- Factory
-- Fluent Interface
-- Null Object
-- Monostate
-- Repository
-- Singleton
-- Strategy
-- Template Method
+- Design Patterns
+  - Adapter
+  - Builder
+  - Command
+  - Factory
+  - Fluent Interface
+  - Null Object
+  - Monostate
+  - Repository
+  - Singleton
+  - Strategy
+  - Template Method
 
 <details>
   <summary>Resources and Exercises</summary>
@@ -324,15 +328,21 @@ Websites
 ## <a name="design-patterns-journeyman"></a>Design Patterns (Journeyman)
 
 #### Learning Goals/Topics
-- Adapter
-- Bridge
-- Composite
-- Facade
-- Mediator
-- Observer
-- Proxy
-- State
-- Visitor
+- Architectural Patterns
+  - API Gateway
+  - Circuit Breaker
+  - Event Sourcing
+  - Eventual Consistency
+  - Microservices
+- Design Patterns
+  - Bridge
+  - Composite
+  - Facade
+  - Mediator
+  - Observer
+  - Proxy
+  - State
+  - Visitor
 
 <details>
   <summary>Resources and Exercises</summary>
@@ -340,7 +350,9 @@ Websites
 ### Resources
 
 Suggested Books
-- [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
+- [ ] [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+- [ ] [Cloud Native Patterns: Designing change-tolerant software](https://www.amazon.com/Cloud-Native-Designing-change-tolerant-software/dp/1617294292)
+- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
 ### Exercises
 - [ ] ...
@@ -361,13 +373,19 @@ Suggested Books
   <summary>Resources and Exercises</summary>
   
 #### Resources
+
+Suggested Books
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [ ] [Don't Make Me Think Revisited](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+
+Suggested Blogs/Blog Posts
 - [ ] ['Don't Repeat Yourself', Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [ ] ['When Does DRY become ARID?', Jeremy Bytes Blog](https://jeremybytes.blogspot.com/2015/08/when-does-dry-become-arid.html)
 - [ ] ['YAGNI', Martin Fowler Bliki](https://martinfowler.com/bliki/Yagni.html)
 - [ ] [Your Constructors are Completely Irrational, The Code Whisperer Blog](https://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational)
 - [ ] [Beware the Bloated Constructor, DaedTech Blog](https://daedtech.com/beware-the-bloated-constructor/)
+
+Other
 - [ ] [How to Write Unmaintainable Code](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 
 #### Exercises
@@ -381,7 +399,6 @@ Suggested Books
 #### Professional Experience
 - [ ] As part of a code review, identify a problem with poorly implemented constructor and suggest an alternative
 - [ ] As part of a code review, suggest a better name for a method or variable
-- [ ] ...
 
 </details>
 
