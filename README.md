@@ -486,6 +486,11 @@ Design principles are a collection of industry wisdom and best practices that he
 
 ## <a name="development-practices-apprentice"></a>Development Practices (Apprentice)
 
+#### Learning Goals/Topics
+- Agile Development
+- Code Review
+- Pair Programming
+
 <details>
   <summary>Resources</summary>
 
@@ -523,7 +528,7 @@ Design principles are a collection of industry wisdom and best practices that he
 </details>
 
 ## <a name="development-practices-journeyman"></a>Development Practices (Journeyman)
-  
+
 <details>
   <summary>Resources</summary>
 
@@ -545,6 +550,13 @@ Design principles are a collection of industry wisdom and best practices that he
 </details>
 
 ## <a name="devops-apprentice"></a>DevOps (Apprentice)
+
+#### Learning Goals/Topics
+- Build Pipelines
+- Release Frequency
+- Requirements Traceability
+- Trunk-Based Development
+- Static Code Analysis
 
 <details>
   <summary>Resources</summary>
