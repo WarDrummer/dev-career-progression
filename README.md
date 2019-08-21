@@ -381,6 +381,14 @@ Performance problems and memory leaks aren't something that developers generally
 
 <details>
   <summary>Resources</summary>
+  
+#### Learning Goals/Topics
+- Design Principles
+  - DRY
+  - YAGNI
+- Temporal Coupling
+- Law of Demeter
+- UX Principles
 
 #### Suggested Books
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -417,6 +425,12 @@ Performance problems and memory leaks aren't something that developers generally
 
 <details>
   <summary>Resources</summary>
+  
+#### Learning Goals/Topics
+- Design Principles
+  - SOLID
+  - GRASP
+  - Code Stratification
 
 #### Suggested Books
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
