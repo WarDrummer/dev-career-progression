@@ -202,6 +202,11 @@ Developers need to be able to understand how their automated tests are directly 
 
 While most developers won't need to implement data structures or complex algorithms in their day-to-day development tasks, an understanding of how the tools they use daily work enables them to make better decisions and, also, reason about what may be going wrong.
 
+#### Learning Goals/Topics
+- Algorithms and Data Structures
+- Problem Solving
+- Professionalism
+
 <details>
   <summary>Resources</summary>
 
@@ -213,7 +218,6 @@ While most developers won't need to implement data structures or complex algorit
 
 #### Online Training
 - [ ] [Algorithms and Data Structures, PluralSight](https://www.pluralsight.com/courses/ads-part1)
-- [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
 </details>
 
@@ -417,6 +421,7 @@ Design principles are a collection of industry wisdom and best practices that he
 
 #### Other
 - [ ] [How to Write Unmaintainable Code](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
+- [ ] [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
 </details>
 
