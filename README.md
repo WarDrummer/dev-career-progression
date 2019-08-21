@@ -244,6 +244,13 @@ While most developers won't need to implement data structures or complex algorit
 
 Performance problems and memory leaks aren't something that developers generally have to deal with everyday. However, having the skills in-house to deal with these complex issues is far cheaper than paying a consultant to quickly diagnose and resolve a problem that has end users in a panic.
 
+#### Learning Goals/Topics
+- Algorithms and Data Structures
+- Bitwise Operators
+- Advanced Debugging
+  - Memory Profiling
+  - Performance Profiling
+
 <details>
   <summary>Resources</summary>
 
@@ -268,6 +275,8 @@ Performance problems and memory leaks aren't something that developers generally
 </details>
 
 ## <a name="design-patterns-apprentice"></a>Design Patterns (Apprentice)
+
+In the relatively short history of software development, common design problems have emerged. As a result, there is a collection of common solutions to a lot of these problems exist, known as design patterns. Awareness of these patterns and the problems they solve will help developers better understand the libraries and frameworks they use. It also makes the problems these patterns solve more visible and, thus, less likely to introduced by developers. Finally, the names of these solutions provide a common vocabulary that developers can use to communicate complex ideas quickly, saving more time for writing code.
 
 #### Learning Goals/Topics
 - Types of Design Patterns
@@ -336,6 +345,8 @@ Performance problems and memory leaks aren't something that developers generally
 
 ## <a name="design-patterns-journeyman"></a>Design Patterns (Journeyman)
 
+Architectural patterns describe common solutions to architectural problems like scalability, performance, reliability, and many more. Understanding the patterns help developers to make informed decisions about how their changes fit into the big picture. Architectural patterns are similar to design patterns, but differ in scope. Also, some of the less common, and more complex, design patterns are good to understand and can expand problem solving capabilities for developers.
+
 #### Learning Goals/Topics
 - Architectural Patterns
   - API Gateway
@@ -379,16 +390,19 @@ Performance problems and memory leaks aren't something that developers generally
 
 ## <a name="design-principles-apprentice"></a>Design Principles (Apprentice)
 
-<details>
-  <summary>Resources</summary>
-  
+Design principles are a collection of industry wisdom and best practices that help developers create code that is easy to build upon and change. UX principles provide developers the ability to better empathize with end-users and produce solutions that are more intuitive and useful.
+
 #### Learning Goals/Topics
 - Design Principles
   - DRY
+  - SOLID
   - YAGNI
 - Temporal Coupling
 - Law of Demeter
 - UX Principles
+
+<details>
+  <summary>Resources</summary>
 
 #### Suggested Books
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -416,21 +430,27 @@ Performance problems and memory leaks aren't something that developers generally
 <details>
   <summary>Milestones</summary>
 
-- [ ] As part of a code review, identify a problem with poorly implemented constructor and suggest an alternative
 - [ ] As part of a code review, suggest a better name for a method or variable
+- [ ] Explain S.O.L.I.D. principles
 
 </details>
 
 ## <a name="design-principles-journeyman"></a>Design Principles (Journeyman)
 
+#### Learning Goals/Topics
+- Code Stratification
+- Design Principles
+  - GRASP
+- Packaging and Component Design Principles
+  - Reuse/Release Equivalence Principle
+  - Common Reuse Principle
+  - Common Closure Principle
+  - Acyclic Dependencies Principle
+  - Stable Dependencies Principle
+  - Stable Abstractions Principle
+  
 <details>
   <summary>Resources</summary>
-  
-#### Learning Goals/Topics
-- Design Principles
-  - SOLID
-  - GRASP
-  - Code Stratification
 
 #### Suggested Books
 - [ ] [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
@@ -453,8 +473,14 @@ Performance problems and memory leaks aren't something that developers generally
   <summary>Milestones</summary>
 
 - [ ] Demonstrate the ability to identify and correct code stratifaction problems
-- [ ] Explain S.O.L.I.D. principles
 - [ ] Explain General Responsibility Assignment Software Patterns/Principles (GRASP)
+- [ ] Demonstrate an understanding of Package and Component Design
+  - [ ] Explain the Reuse/Release Equivalence Principle
+  - [ ] Explain the Common Reuse Principle
+  - [ ] Explain the Common Closure Principle
+  - [ ] Explain the Acyclic Dependencies Principle
+  - [ ] Explain the Stable Dependencies Principle
+  - [ ] Explain the Stable Abstractions Principle
 
 </details>
 
@@ -473,9 +499,6 @@ Performance problems and memory leaks aren't something that developers generally
 - [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)x
 
 #### Suggested Whitepapers
-- [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
-
-#### Other
 - [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 
 </details>
@@ -500,7 +523,7 @@ Performance problems and memory leaks aren't something that developers generally
 </details>
 
 ## <a name="development-practices-journeyman"></a>Development Practices (Journeyman)
-
+  
 <details>
   <summary>Resources</summary>
 
@@ -518,14 +541,6 @@ Performance problems and memory leaks aren't something that developers generally
 
 <details>
   <summary>Milestones</summary>
-
-- [ ] Demonstrate an understanding of Package and Component Design
-  - [ ] Explain the Reuse/Release Equivalence Principle
-  - [ ] Explain the Common Reuse Principle
-  - [ ] Explain the Common Closure Principle
-  - [ ] Explain the Acyclic Dependencies Principle
-  - [ ] Explain the Stable Dependencies Principle
-  - [ ] Explain the Stable Abstractions Principle
 
 </details>
 
