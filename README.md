@@ -488,7 +488,10 @@ Design principles are a collection of industry wisdom and best practices that he
 
 #### Learning Goals/Topics
 - Agile Development
+  - Extreme Programming
+  - Scrum
 - Code Review
+- Coding Standards
 - Pair Programming
 
 <details>
@@ -529,6 +532,10 @@ Design principles are a collection of industry wisdom and best practices that he
 
 ## <a name="development-practices-journeyman"></a>Development Practices (Journeyman)
 
+#### Learning Goals/Topics
+- Emergent Design
+- Refactoring
+
 <details>
   <summary>Resources</summary>
 
@@ -553,6 +560,7 @@ Design principles are a collection of industry wisdom and best practices that he
 
 #### Learning Goals/Topics
 - Build Pipelines
+- Configuration as Code
 - Release Frequency
 - Requirements Traceability
 - Trunk-Based Development
@@ -592,6 +600,11 @@ Design principles are a collection of industry wisdom and best practices that he
 </details>
 
 ## <a name="devops-journeyman"></a>DevOps (Journeyman)
+
+#### Learning Goals/Topics
+- Blue-Green Deployments
+- Environments as Code
+- Ephemeral Environments
 
 <details>
   <summary>Resources</summary>
