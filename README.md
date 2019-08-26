@@ -397,6 +397,7 @@ Architectural patterns describe common solutions to architectural problems like 
 Design principles are a collection of industry wisdom and best practices that help developers create code that is easy to build upon and change. UX principles provide developers the ability to better empathize with end-users and produce solutions that are more intuitive and useful.
 
 #### Learning Goals/Topics
+- Atomic Design
 - Code Stratification
 - Design Principles
   - DRY
