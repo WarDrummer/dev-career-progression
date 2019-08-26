@@ -397,8 +397,10 @@ Architectural patterns describe common solutions to architectural problems like 
 Design principles are a collection of industry wisdom and best practices that help developers create code that is easy to build upon and change. UX principles provide developers the ability to better empathize with end-users and produce solutions that are more intuitive and useful.
 
 #### Learning Goals/Topics
+- Code Stratification
 - Design Principles
   - DRY
+  - GRASP
   - SOLID
   - YAGNI
 - Temporal Coupling
@@ -443,9 +445,7 @@ Design principles are a collection of industry wisdom and best practices that he
 ## <a name="design-principles-journeyman"></a>Design Principles (Journeyman)
 
 #### Learning Goals/Topics
-- Code Stratification
-- Design Principles
-  - GRASP
+- Cloud-Native Architecture
 - Packaging and Component Design Principles
   - Reuse/Release Equivalence Principle
   - Common Reuse Principle
@@ -453,7 +453,9 @@ Design principles are a collection of industry wisdom and best practices that he
   - Acyclic Dependencies Principle
   - Stable Dependencies Principle
   - Stable Abstractions Principle
-  
+- REST Architecture
+- Serverless Architecture
+
 <details>
   <summary>Resources</summary>
 
@@ -608,8 +610,10 @@ Design principles are a collection of industry wisdom and best practices that he
 
 #### Learning Goals/Topics
 - Blue-Green Deployments
+- Container Orchestration
 - Environments as Code
-- Ephemeral Environments
+- Load Balancing
+- Site Reliability Engineering
 
 <details>
   <summary>Resources</summary>
