@@ -569,6 +569,7 @@ Design principles are a collection of industry wisdom and best practices that he
 #### Learning Goals/Topics
 - Build Pipelines
 - Configuration as Code
+- Dependency Management
 - Release Frequency
 - Requirements Traceability
 - Trunk-Based Development
@@ -610,11 +611,14 @@ Design principles are a collection of industry wisdom and best practices that he
 ## <a name="devops-journeyman"></a>DevOps (Journeyman)
 
 #### Learning Goals/Topics
-- Blue-Green Deployments
+- Blue-Green and Red-Black Deployments
+- Containers 
 - Container Orchestration
 - Environments as Code
-- Load Balancing
+
 - Site Reliability Engineering
+  - Chaos Testing
+  - Load Balancing
 
 <details>
   <summary>Resources</summary>
