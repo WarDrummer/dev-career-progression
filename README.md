@@ -623,7 +623,6 @@ Design principles are a collection of industry wisdom and best practices that he
 - Containers 
 - Container Orchestration
 - Environments as Code
-
 - Site Reliability Engineering
   - Chaos Testing
   - Load Balancing
