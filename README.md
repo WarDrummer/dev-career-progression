@@ -632,6 +632,7 @@ Design principles are a collection of industry wisdom and best practices that he
 
 #### Suggested Books
 - [ ] [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+- [ ] [Site Reliability Engineering](https://landing.google.com/sre/books/)
 
 #### Suggested Blog Posts
 - [ ] [State of DevOps](https://puppet.com/blog-tags/state-devops)
