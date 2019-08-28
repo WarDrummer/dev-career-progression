@@ -468,6 +468,9 @@ Design principles are a collection of industry wisdom and best practices that he
 - [ ] ['Is Design Dead?', Martin Fowler Bliki](https://martinfowler.com/articles/designDead.html)
 - [ ] ['Tony Hoare, Apologies and Retractions', Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare#Apologies_and_retractions)
 
+#### Suggested Websites
+- [ ] [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+
 </details>
 
 <details>
@@ -512,7 +515,11 @@ Design principles are a collection of industry wisdom and best practices that he
 - [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/)
 
 #### Suggested Blog Posts
-- [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)x
+- [ ] [Why code reviews matter (and actually save time)](https://www.atlassian.com/agile/software-development/code-reviews)
+
+#### Suggested Websites
+- [ ] [Manifesto for Agile Software Development](https://agilemanifesto.org)
+  - [ ] [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
 
 #### Suggested Whitepapers
 - [ ] [The Cost and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
@@ -588,6 +595,7 @@ Design principles are a collection of industry wisdom and best practices that he
 - [ ] [Road to Continuous Deployment - Intuit](https://quickbooks-engineering.intuit.com/road-to-continuous-deployment-65bd03b985fc)
 
 #### Suggested Websites
+- [ ] [The Twelve-Factor App](https://12factor.net/)
 - [ ] [Trunk Based Development](https://trunkbaseddevelopment.com/)
 
 </details>
