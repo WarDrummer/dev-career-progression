@@ -497,6 +497,8 @@ Design principles are a collection of industry wisdom and best practices that he
 
 ## <a name="development-practices-apprentice"></a>Development Practices (Apprentice)
 
+There are processes and activities that teams and individuals can learn to increase their productivity and the rate at which they learn. Agile development, which comes in many flavors, enables to developers to quickly build skills and share knowledge across teams. As a result, the quality of the products they create increases and the time that it takes to get new features decreases.
+
 #### Learning Goals/Topics
 - Agile Development
   - Extreme Programming
@@ -509,8 +511,9 @@ Design principles are a collection of industry wisdom and best practices that he
   <summary>Resources</summary>
 
 #### Suggested Books
-- [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 - [ ] [20 Patterns to Watch For in Your Engineering Team](https://resources.gitprime.com/books/20-patterns/)
+- [ ] [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+- [ ] [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [ ] [Scrum Guide](https://www.scrum.org/resources/scrum-guide)
 - [ ] [Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/)
 
@@ -572,6 +575,8 @@ Design principles are a collection of industry wisdom and best practices that he
 </details>
 
 ## <a name="devops-apprentice"></a>DevOps (Apprentice)
+
+The DevOps movement has dramatically changed companies' ability to deliver customer value faster. Companies that aren't applying DevOps principles and automating everything they can are at a remarkable disadvantage. Reducing the feedback cycle on development work means more problems are caught when they are easiest and cheapest to fix (in development, not production.) All team members should understand how code goes from source control to production and how quality is validated along the way.
 
 #### Learning Goals/Topics
 - Build Pipelines
